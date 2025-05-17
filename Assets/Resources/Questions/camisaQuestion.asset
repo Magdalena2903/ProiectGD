@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8111c3eb14f30e548b9313843b34e1eb, type: 3}
+  m_Name: camisaQuestion
+  m_EditorClassIdentifier: 
+  questionText: "De qu\xE9 color es la camisa?"
+  questionImage: {fileID: 9201473010797650274, guid: d463b63378b811f4699bf184052da489, type: 3}
+  options:
+  - Violeta
+  - Rosa
+  - Azul
+  correctAnswerIndex: 0
